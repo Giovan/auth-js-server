@@ -29,7 +29,7 @@
     "helmet": "^3.20.0",
     "jsonwebtoken": "^8.5.1",
     "ts-node-dev": "^1.0.0-pre.40",
-    "typeorm": "0.2.18",
+    "typeorm": "0.2.25",
     "reflect-metadata": "^0.1.10",
     "sqlite3": "^4.0.3",
     "express": "^4.15.4",
